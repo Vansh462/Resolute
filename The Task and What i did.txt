@@ -1,0 +1,19 @@
+Task 1: Machine Learning - Clustering
+Task: Use any clustering technique to extract patterns or segregate data into groups.
+User Story: User should be able to provide a data point (a row) and program should be able to identify
+to which cluster given data point belongs to and why?
+
+Task 2: Machine Learning - Classification
+Task: Train any classification model(s) on the train sheet and test your algorithm on the test sheet.
+Share target values for the test, we will evaluate from our end.
+If using multiple algorithms, plz share target values for each algorithm.
+Also share your algorithm’s train accuracy and mention the reason behind choosing your algorithm
+
+(for task 1 & 2 I used KNeighbors clustering , The target variable was in alphanumeric form like A52 , B41. So i made two models each for alphabet and numerical part and got an train accuracy of 99.2 %. I wasn't provided test resulst to calc test accuracy)
+
+Task 3: Python
+Task: Use rawdata as input and derive
+1. Datewise total duration for each inside and outside.
+2. Datewise number of picking and placing activity done.
+
+(for task3 i hardcoded py script to calc the output)

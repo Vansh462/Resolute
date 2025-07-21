@@ -1,8 +1,29 @@
 # Resolute
- I did 3 tasks , 1) clustering 2) classification 3) coding
 
-for further details on what i did Read "The Task and What i did.txt" .
+> **A collection of 3 tasks:**  
+> 1. Clustering  
+> 2. Classification  
+> 3. Python Coding
 
-My work is in folder "My Work" in files named as Resolute task 1and 2  and task 3 .ipynb files.
+---
 
-Do set the location in first 4 lines of those .ipynb's according to the local address after extracting the files to your desktop.
+## 📑 Task Overview
+
+See [The Task and What I Did.txt](The%20Task%20and%20What%20i%20did.txt) for a detailed description of the tasks and my approach.
+
+---
+
+## 📂 My Work
+
+All solutions are provided in the `My Work` folder:
+
+- **Resolute Task 1 and 2.ipynb**  
+  (Clustering & Classification)
+
+- **Resolute Task 3.ipynb**  
+  (Python Coding Task)
+
+> **Note:**  
+> Please set the location in the first 4 lines of each notebook according to the local directory path after extracting the files to your desktop.
+
+---
